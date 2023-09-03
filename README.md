@@ -1,5 +1,5 @@
 
-# Simple Timer File Encryption! - Hide your files from yourself
+# Simple Timer File Encryption - Hide your files from yourself!
 What is the use of this file encryption?
 
 For example:
