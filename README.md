@@ -1,5 +1,7 @@
 
 # Simple Timer File Encryption - Hide your files from yourself!
+A temporarily files encryption. You can hide photos, notes from yourself. You will not be able to access them until the preset time has elapsed.
+
 What is the use of this file encryption?
 
 For example:
